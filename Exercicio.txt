@@ -1,0 +1,25 @@
+Conforme o arquivo aula-filtros, fazer alguns relatórios, filtrando os dados:
+
+1 - Filtrar por um período de data. 01/05/2017 a 31/05/2017, somente do sexo feminino, escolher uma cidade para filtrar, forma de pagamento em cartão de crédito.
+Imprimir, gerar um arquivo pdf
+Salvar como exercicio 1
+
+2 - Filtrar somente sexo masculino, Loja Uberaba, forma de pagamento em dinheiro.
+
+Imprimir, gerar um arquivo pdf
+Salvar como exercicio 2
+
+3 - Filtrar pelo primeiro trimestre de 2018, forma de pagamento em dinheiro.
+
+Imprimir, gerar um arquivo pdf
+Salvar como exercicio 3
+
+4 - Filtrar somente pelo ano de 2018, dos dias 1 a 5 de cada mes, com preços maiores que 100,00.
+
+Imprimir, gerar um arquivo pdf
+Salvar como exercicio 4
+
+5 - Filtrar somente pelo ano de 2018, dos dias 1 a 10 somente do mes de janeiro, com preços maiores que 200,00.
+
+Imprimir, gerar um arquivo pdf
+Salvar como exercicio 5
